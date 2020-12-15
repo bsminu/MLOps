@@ -1,10 +1,8 @@
-1_MLOps_app
-==============================
 
-Simple ML App deployment
+### Simple ML App deployment
 
-Project Organization
-------------
+## Project Organization
+
 
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
     ├── README.md          <- The top-level README for developers using this project.
@@ -25,4 +23,4 @@ Project Organization
     ├── src                <- Source code for use in this project.
 
 
---------
+
